@@ -1,0 +1,2 @@
+awk '{print $1 $4}' sturecor
+awk '{print $1","$4}' sturecord
